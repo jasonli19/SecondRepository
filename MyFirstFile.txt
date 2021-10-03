@@ -1,1 +1,2 @@
 Created by developer2
+Change made to understand .git
